@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SysFinancial/static/css/main.073c9b0a.css",
+    "main.js": "/SysFinancial/static/js/main.39ce9a3d.js",
+    "static/js/787.9cd36e68.chunk.js": "/SysFinancial/static/js/787.9cd36e68.chunk.js",
+    "static/media/logo.svg": "/SysFinancial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SysFinancial/index.html",
+    "main.073c9b0a.css.map": "/SysFinancial/static/css/main.073c9b0a.css.map",
+    "main.39ce9a3d.js.map": "/SysFinancial/static/js/main.39ce9a3d.js.map",
+    "787.9cd36e68.chunk.js.map": "/SysFinancial/static/js/787.9cd36e68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.39ce9a3d.js"
+  ]
+}
